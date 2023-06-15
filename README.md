@@ -1,6 +1,6 @@
 # maoyan
 
-* python 版本 
+* python version 
   * python3.x
-* 实现
-  * 抓取猫眼榜单TOP100
+* accomplish
+   * Grab the Maoyan list TOP100
